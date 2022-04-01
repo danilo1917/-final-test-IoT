@@ -13,10 +13,8 @@ Você deverá subir os dados de geração das usinas para um banco de dados loca
     3 - Identificação da usina (exemplo: id, nome)
 
 <h2 align="center"> Observações</h2>
-A estruturação do banco ficará a seu critério.
-
-Para subir os dados para o banco, poderá ser utilizada qualquer ferramenta ou biblioteca da linguagem Python.
-
-Você terá 3h para desenvolver a aplicação e, após finalizada, a sua equipe precisa de um vídeo explicativo sobre o que foi feito e como a aplicação funciona. Faça um vídeo curto de 5 min descrevendo sua solução.
+1- A estruturação do banco ficará a seu critério.
+2 - Para subir os dados para o banco, poderá ser utilizada qualquer ferramenta ou biblioteca da linguagem Python.
+3 - Você terá 3h para desenvolver a aplicação e, após finalizada, a sua equipe precisa de um vídeo explicativo sobre o que foi feito e como a aplicação funciona. Faça um vídeo curto de 5 min descrevendo sua solução.
 
 

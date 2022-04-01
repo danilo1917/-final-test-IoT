@@ -6,7 +6,7 @@ Você está desenvolvendo um sistema para coletar dados de medições de geraç�
 Você deverá desenvolver uma aplicação, em python, para verificar se o intervalo de tempo entre as medições está íntegro nos três arquivos. Caso contrário, sua aplicação deverá informar qual arquivo apresenta erro de integridade e quais são os horários das medições faltantes. 
 
 <h2 align="center"> 2 - Armazenamento</h2>
-Você deverá subir os dados de geração das usinas para um banco de dados local da sua escolha. Somente os arquivos que passaram no teste de integridade deverão ser tratados nessa tarefa. Os dados importantes a serem subidos são: 
+Você deverá subir os dados de geração das usinas para um banco de dados local da sua escolha. Somente os arquivos que passaram no teste de integridade deverão ser tratados nesta tarefa. Os dados importantes a serem subidos são: 
 
     1 - data e horário da medição;
     2 - Geração (value);
